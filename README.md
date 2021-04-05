@@ -2,7 +2,7 @@
 <p>Protocolos básicos de enlance de dados implementados em Python. São eles:</p>
 <br>
 
-> <b>Referência:</b> Redes de Computadores - Tanembau e Wetherall - 5ª edição
+  > <b>Referência:</b> TANENBAUM, Andrew S. Redes de Computadores, 5ª ed.
 
 <br>
 
